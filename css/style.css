@@ -1,6 +1,6 @@
 /*css general */
 body {
-	font-family: 'Lato', sans-serif;
+	font-family: "Lato", sans-serif;
 	color: #747704;
 }
 
@@ -10,8 +10,8 @@ body {
 }
 
 .text-secondtitle {
-	padding-left:2%;
-	color: #BABABA;
+	padding-left: 2%;
+	color: #bababa;
 	font-weight:400;
 	font-size: 38px;
 	margin-top: 1em;
@@ -27,7 +27,6 @@ body {
 
 .title-super {
 	font-size: 60px
-
 }
 
 .description-project {
