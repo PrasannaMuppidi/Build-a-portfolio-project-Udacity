@@ -56,3 +56,7 @@ hr {
     margin-top: 0.2em;
     margin-bottom: 2.2em;
 }
+
+p {
+    border: none;
+}
